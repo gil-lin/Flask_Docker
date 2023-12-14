@@ -1,4 +1,5 @@
 # Flask_Docker
+# A simple example of how to containarize your application 
 
 In order to run this application demo, take the following steps:
 1. docker pull gil75lin/flask-app:latest
